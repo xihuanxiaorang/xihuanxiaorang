@@ -8,10 +8,10 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xihuanxiaorang&theme=monokai">
 
 ### 📫 How to reach me:
-- :octocat: [Github@itgoyo](https://github.com/xihuanxiaorang)
-- :email: [itgoyo@gmail.com](mailto:15019474951@gmail.com)
-- :tv: [Bilibili@itgoyo](https://space.bilibili.com/307881917)
-- :bird: [yuque@itgoyo](https://www.yuque.com/xihuanxiaorang)
+- :octocat: [github@xiaorang](https://github.com/xihuanxiaorang)
+- :email: [gmail@xiaorang](mailto:15019474951@gmail.com)
+- :tv: [bilibili@xiaorang](https://space.bilibili.com/307881917)
+- :bird: [yuque@xiaorang](https://www.yuque.com/xihuanxiaorang)
 
 
 <!--
