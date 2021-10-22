@@ -1,17 +1,12 @@
-### Hi there 👋
-
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:xihuanxiaorang"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
-</p>
-
 <h1 align="center">Hi 👋, I'm xiaorang</h1>
 <h3 align="center">A passionate java developer from China</h3>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xihuanxiaorang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+### 🌈 Github Stats:
+<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@xihuanxiaorang?theme=rule34"></a><br>
+<img src = "https://github-readme-stats.vercel.app/api?username=xihuanxiaorang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=xihuanxiaorang&theme=dracula">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xihuanxiaorang&theme=monokai">
 
-![](https://raw.githubusercontent.com/xihuanxiaorang/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/xihuanxiaorang/github-stats-transparent/output/generated/languages.svg)
 
 <!--
 **xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
