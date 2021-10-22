@@ -8,7 +8,10 @@
 <h1 align="center">Hi 👋, I'm xiaorang</h1>
 <h3 align="center">A passionate java developer from China</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xihuanxiaorang&show_icons=true&theme=onedark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xihuanxiaorang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/xihuanxiaorang/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/xihuanxiaorang/github-stats-transparent/output/generated/languages.svg)
 
 <!--
 **xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
