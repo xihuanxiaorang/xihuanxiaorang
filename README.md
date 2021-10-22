@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-![moebooru](https://count.getloli.com/get/@:name?theme=moebooru)
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:xihuanxiaorang"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+</p>
+
+<h1 align="center">Hi 👋, I'm xiaorang</h1>
+<h3 align="center">A passionate java developer from China</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xihuanxiaorang&show_icons=true&theme=onedark)
 
