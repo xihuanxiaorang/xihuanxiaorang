@@ -20,7 +20,7 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Writing Articles on [Yueque](https://www.yuque.com/xihuanxiaorang/java/gtx6ry) with [github](https://github.com/xihuanxiaorang/mybatis-study)
+1. ❗️ Writing Articles on [Yueque](https://www.yuque.com/xihuanxiaorang/java) with [github](https://github.com/xihuanxiaorang/)
 <!--END_SECTION:activity-->
 
 <!--
