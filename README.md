@@ -7,6 +7,12 @@
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=xihuanxiaorang&theme=dracula">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xihuanxiaorang&theme=monokai">
 
+### 📫 How to reach me:
+- :octocat: [Github@itgoyo](https://github.com/xihuanxiaorang)
+- :email: [itgoyo@gmail.com](mailto:15019474951@gmail.com)
+- :tv: [Bilibili@itgoyo](https://space.bilibili.com/307881917)
+- :yuque: [yuque@itgoyo](https://www.yuque.com/xihuanxiaorang)
+
 
 <!--
 **xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
