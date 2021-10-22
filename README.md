@@ -11,7 +11,7 @@
 - :octocat: [Github@itgoyo](https://github.com/xihuanxiaorang)
 - :email: [itgoyo@gmail.com](mailto:15019474951@gmail.com)
 - :tv: [Bilibili@itgoyo](https://space.bilibili.com/307881917)
-- :yuque: [yuque@itgoyo](https://www.yuque.com/xihuanxiaorang)
+- :bird: [yuque@itgoyo](https://www.yuque.com/xihuanxiaorang)
 
 
 <!--
