@@ -18,9 +18,9 @@
 | --- | --- |
 | [Blogs](https://xihuanxiaorang.github.io/) | [Books](https://www.yuque.com/xihuanxiaorang/java) |
 
-### :zap: Recent Activity
+### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Writing Articles for [Mybatis](https://www.yuque.com/xihuanxiaorang/java/gtx6ry) with git repository [github](https://github.com/xihuanxiaorang/mybatis-study)
+1. ❗️ Writing Articles on [Yueque](https://www.yuque.com/xihuanxiaorang/java/gtx6ry) with [github](https://github.com/xihuanxiaorang/mybatis-study)
 <!--END_SECTION:activity-->
 
 <!--
