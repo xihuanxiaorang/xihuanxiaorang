@@ -1,6 +1,6 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=850&height=300)](https://github.com/Akshay090/svg-banners)
+<div align="center">[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=850&height=300)](https://github.com/Akshay090/svg-banners)</div>
 
-<h1 align="center">Hi 👋, I'm xiaorang</h1>
+<h1 align="center">I'm xiaorang</h1>
 <h3 align="center">A passionate java developer from China</h3>
 
 ### 🌈 Github Stats:
