@@ -14,6 +14,15 @@
 - :bird: [yuque@xiaorang](https://www.yuque.com/xihuanxiaorang)
 
 
+| :pencil2: | :book:  |
+| --- | --- |
+| [Blogs](https://xihuanxiaorang.github.io/) | [Books](https://www.yuque.com/xihuanxiaorang/java) |
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+1. ❗️ Writing Articles for [Mybatis](https://www.yuque.com/xihuanxiaorang/java/gtx6ry) with git repository [github](https://github.com/xihuanxiaorang/mybatis-study)
+<!--END_SECTION:activity-->
+
 <!--
 **xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
