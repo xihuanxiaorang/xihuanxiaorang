@@ -18,7 +18,7 @@
 
 | :pencil2: | :book:  |
 | --- | --- |
-| [Blogs](https://xihuanxiaorang.github.io/) | [Notes](https://www.yuque.com/xihuanxiaorang/java) |
+| [Blogs](https://xihuanxiaorang.github.io/) | [Notes](https://www.yuque.com/xihuanxiaorang) |
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
