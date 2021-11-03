@@ -15,10 +15,9 @@
 - :tv: [bilibili@xiaorang](https://space.bilibili.com/307881917)
 - :bird: [yuque@xiaorang](https://www.yuque.com/xihuanxiaorang)
 
-
-| :pencil2: | :book:  |
-| --- | --- |
-| [Blogs](https://xihuanxiaorang.github.io/) | [Notes](https://www.yuque.com/xihuanxiaorang) |
+| :book: |
+| --- |
+| [Notes](https://www.yuque.com/xihuanxiaorang) |
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
