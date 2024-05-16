@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
-<img src="./assets/techstack.gif" alt="gif" width="360px" align="right" />
+<img src="https://cdn.jsdelivr.net/gh/xihuanxiaorang/img/202405170053667.gif" alt="gif" width="360px" align="right" />
 
 ### 🧐 More About Me
 
@@ -46,7 +46,6 @@
   </picture>
   <br />
 </p>
-
 
 ### 📊 My recent programming status
 
