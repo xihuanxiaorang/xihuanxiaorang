@@ -1,0 +1,22 @@
+name: Waka Readme
+
+on:
+  # allow to manually run the job at any time
+  workflow_dispatch:
+  
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master # this action name
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BLOCKS: "⬜🟨🟩"
+          TIME_RANGE: last_30_days
+          SHOW_TIME: true
