@@ -22,4 +22,4 @@ jobs:
           SHOW_TIME: true
           LANG_COUNT: 20
           SHOW_TOTAL: true
-          CODE_LANG: java sql
+          IGNORED_LANGUAGES: TEXT MARKDOWN GITIGNORE
