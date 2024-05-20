@@ -22,4 +22,4 @@ jobs:
           SHOW_TIME: true
           LANG_COUNT: 20
           SHOW_TOTAL: true
-          IGNORED_LANGUAGES: TEXT MARKDOWN GITIGNORE
+          IGNORED_LANGUAGES: Text Markdown
