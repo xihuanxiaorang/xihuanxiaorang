@@ -20,5 +20,6 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: last_30_days
           SHOW_TIME: true
-          LANG_COUNT: 10
+          LANG_COUNT: 20
           SHOW_TOTAL: true
+          IGNORED_LANGUAGES: GitIgnore file, Text
