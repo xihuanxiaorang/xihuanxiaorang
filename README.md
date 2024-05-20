@@ -51,7 +51,7 @@
 
 <!--START_SECTION:waka-->
 
-```java sql
+```txt
 Total Time: 2 hrs 46 mins
 
 SQL              1 hr 40 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   60.39 %
